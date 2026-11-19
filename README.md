@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Key Rafi Kaendre — Portfolio Website
 
 Website portofolio statis menggunakan HTML, CSS, dan JavaScript. Siap dipublikasikan melalui GitHub Pages.
@@ -29,3 +30,6 @@ Cari dan ganti:
 
 ## Catatan
 GitHub Pages hanya meng-host website statis. Backend PHP/Laravel dan database tidak berjalan langsung di GitHub Pages. Untuk proyek Laravel, gunakan screenshot, deskripsi, repository kode, atau tautan demo yang di-host di layanan backend terpisah.
+=======
+# keyrafi-portfolio
+>>>>>>> 90ebc812be6b4092518c6b14241ac89aef96d018
